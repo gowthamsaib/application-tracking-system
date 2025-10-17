@@ -113,7 +113,7 @@ if submit:
 
             response = model.generate_content(final_prompt)
 
-            st.subheader("ATS Evaluation Result")
+            st.subheader("ATS Evaluation Result of the Resume")
             st.write(response.text)
 
         except Exception as e:
