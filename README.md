@@ -28,18 +28,6 @@ An AI-powered Application Tracking System built using Streamlit that evaluates h
 
 ---
 
-
-## Project Structure
-
-│
-├── app.py
-├── .env
-├── requirements.txt
-├── README.md
-└── .gitignore
-
----
-
 ## Usage
 
 - Upload a resume in PDF format
